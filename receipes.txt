@@ -3,5 +3,8 @@ kheer
 pasta
 chicken biryani
 
+Beans
+pizza
+
 
 thankyou
